@@ -10,7 +10,7 @@ La aplicación permite lo siguiente:
 - Eliminar tareas.
 - Visualizar todas las tareas pendientes y completadas en una ventana lateral.
 - La aplicación tiene un fondo visual atractivo y utiliza un diseño limpio con un formulario de entrada para las tareas.
-- Las Tareas no se guardan en ningún lado, sólo es una muestra visual, puede agregar esa funcionalidad si quieres en LocalStorage u otros.
+- Las Tareas no se guardan en ningún lado, sólo es una muestra visual, puedes agregar esa funcionalidad si quieres en LocalStorage u otros.
 
 ## Características
 - **Formulario de tarea**: Ingresa aquí un título y una descripción para agregar tareas.
