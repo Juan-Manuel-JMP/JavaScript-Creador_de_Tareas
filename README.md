@@ -60,4 +60,9 @@ Cada tarea tiene un botón para eliminarla.
 
 Se te pedirá una confirmación antes de que se elimine la tarea.
 
-    ```
+```
+
+## Captura de Pantalla
+
+![Captura de pantalla](https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_Tareas/blob/main/Captura%20de%20pantalla.png?raw=true)
+
