@@ -1,6 +1,6 @@
 # Aplicación de Tareas
 
-Este es un proyecto simple de una **Aplicación de Tareas** en la que puedes agregar, eliminar y marcar tareas como completadas. El proyecto está construido usando **HTML**, **CSS** y **JavaScript**.
+**Aplicación de Tareas** Puedes agregar, eliminar y marcar tareas como completadas. Construido usando **HTML**, **CSS** y **JavaScript**.
 
 ## Descripción
 
