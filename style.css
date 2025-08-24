@@ -1,0 +1,69 @@
+/* Fondo global para toda la página */
+      body {
+        background-image: url('/img/fondo/fondo.jpg');  
+        background-size: cover;  
+        background-position: center center;  
+        font-family: 'Arial', sans-serif;
+        color: #fff;  
+      }
+
+      /* Fondo para la ventana lateral donde están las tareas */
+      .tasks-container {
+        background-color: #ffffff;
+        border-left: 2px solid #f1f1f1;
+        padding-left: 30px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      /* Fondo para el formulario */
+      .card-body {
+        background-color: #f8f9fa; /* Fondo claro para el formulario */
+      }
+
+      /* Estilo de las tareas completadas */
+      .completed {
+        text-decoration: line-through;
+        color: #888;
+      }
+
+      /* Estilo cuando no hay tareas */
+      .empty-tasks {
+        text-align: center;
+        color: #888;
+        font-size: 1.2rem;
+        margin-top: 30px;
+      }
+
+      /* Margen entre las tareas */
+      .task-card {
+        margin-bottom: 15px;
+      }
+
+      /* Fondo y color para el botón de guardar */
+      .btn-primary {
+        background-color: #5cb85c;
+        border-color: #4cae4c;
+      }
+
+      /* Fondo del Navbar */
+      nav {
+        background-color: #007bff;
+      }
+
+       .completed {
+        text-decoration: line-through;
+        color: #888;
+      }
+      .empty-tasks {
+        text-align: center;
+        color: #888;
+        font-size: 1.2rem;
+        margin-top: 30px;
+      }
+      .tasks-container {
+        border-left: 2px solid #f1f1f1;
+        padding-left: 30px;
+      }
+      .task-card {
+        margin-bottom: 15px;
+      }

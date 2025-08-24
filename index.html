@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Aplicación de Tareas</title>
+    <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+     <!-- Navegación -->
+    <nav class="navbar navbar-light">
+      <div class="container">
+        <a class="navbar-brand text-white" href="#">Aplicación de Tareas</a>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row my-5">
+        <!-- Formulario de Tareas -->
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <form id="formTask">
+                <div class="form-group">
+                  <input type="text" id="title" placeholder="Agregar Tarea" class="form-control">
+                </div>
+                <div class="form-group">
+                  <textarea id="description" cols="30" rows="3" class="form-control"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Guardar</button>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <!-- Ventana lateral donde aparecerán las tareas -->
+        <div class="col-md-8 tasks-container">
+          <div id="tasks"></div>
+          <p id="emptyTasksMessage" class="empty-tasks"></p>
+        </div>
+      </div>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
