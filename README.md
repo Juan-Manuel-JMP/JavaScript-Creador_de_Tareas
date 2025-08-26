@@ -1,10 +1,10 @@
 # Aplicación de Tareas  📝
 
-**Aplicación de Tareas** Puedes agregar, eliminar y marcar tareas como completadas. Construido usando **HTML**, **CSS** y **JavaScript**.
+ Puedes agregar, eliminar y marcar tareas como completadas. Construído usando HTML, CSS y JavaScript.
 
 ## Descripción
 
-La aplicación permite lo siguiente:
+# La aplicación permite lo siguiente:
 - Agregar tareas con título y descripción.
 - Marcar tareas como completadas.
 - Eliminar tareas.
