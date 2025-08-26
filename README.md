@@ -2,7 +2,7 @@
 
  Puedes agregar, eliminar y marcar tareas como completadas. Construído usando HTML, CSS y JavaScript.
 
-## Descripción
+## 📋 Descripción
 
 # La aplicación permite lo siguiente:
 - Agregar tareas con título y descripción.
@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Características
+## ✨ Características
 - **Formulario de tarea**: Ingresa aquí un título y una descripción para agregar tareas.
 - **Visualización de tareas**: Las tareas se muestran en una sección al lado del formulario.
 - **Marcar como completada**: Las tareas pueden marcarse como completadas (con una línea tachada).
@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Estructura del Proyecto
+## 🏛️ Estructura del Proyecto
 
 ```Bash
 /AplicacionTareas
