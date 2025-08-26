@@ -1,4 +1,4 @@
-# Aplicación de Tareas
+# Aplicación de Tareas  📝
 
 **Aplicación de Tareas** Puedes agregar, eliminar y marcar tareas como completadas. Construido usando **HTML**, **CSS** y **JavaScript**.
 
@@ -12,11 +12,15 @@ La aplicación permite lo siguiente:
 - La aplicación tiene un fondo visual atractivo y utiliza un diseño limpio con un formulario de entrada para las tareas.
 - Las Tareas no se guardan en ningún lado, sólo es una muestra visual, puedes agregar esa funcionalidad si quieres en LocalStorage u otros.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Características
 - **Formulario de tarea**: Ingresa aquí un título y una descripción para agregar tareas.
 - **Visualización de tareas**: Las tareas se muestran en una sección al lado del formulario.
 - **Marcar como completada**: Las tareas pueden marcarse como completadas (con una línea tachada).
 - **Eliminar tarea**: Puedes eliminar cualquier tarea de la lista.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Estructura del Proyecto
 
@@ -61,6 +65,15 @@ Cada tarea tiene un botón para eliminarla.
 Se te pedirá una confirmación antes de que se elimine la tarea.
 
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Saludos!🖐🏻
+ &emsp;
+    <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Captura de Pantalla 📑
 
