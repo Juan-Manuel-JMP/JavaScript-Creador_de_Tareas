@@ -34,17 +34,10 @@
 
 Instrucciones para usar
 
-Clonar el proyecto:
-Para empezar a usar el proyecto, primero clónalo en tu máquina local:
-
-git clone https://github.com/tu-usuario/AplicacionTareas.git
-
-
 Abrir en un navegador:
 Abre el archivo index.html en tu navegador favorito para ver la aplicación en acción.
 
 open index.html
-
 
 Agregar tareas:
 
